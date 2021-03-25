@@ -1,3 +1,3 @@
 # Hangman
 
-Python code for lesson 34, course "The Self-Taught Programmer" on Udemy
+Hangman game code via console. Lesson 34, course "The Self-Taught Programmer" on Udemy.
